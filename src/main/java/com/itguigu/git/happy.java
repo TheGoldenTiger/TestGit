@@ -6,5 +6,6 @@ public class happy {
         System.out.println("right");
         //left
         System.out.println("left");
+        //test2
     }
 }
